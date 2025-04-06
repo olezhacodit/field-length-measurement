@@ -19,3 +19,4 @@ diagonal = calculate_field_diagonal(length, width)
 
 print(f"Field Length: {length} meters")
 print(f"Field Diagonal: {diagonal:.2f} meters")
+rare
